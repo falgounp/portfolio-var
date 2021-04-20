@@ -1,5 +1,6 @@
 streamlit==0.79.0
-scipy = 1.4.1
+scipy == 1.4.1
+plotly == 4.14.3
 base58==2.1.0
 blinker==1.4
 cachetools==4.2.1
